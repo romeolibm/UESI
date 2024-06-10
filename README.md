@@ -3,7 +3,7 @@ Universal Editor for Structured Information
 
 ## Requirements
 
-1. The editor processes data necessry to develop LUT/GUT entities see: ![GUT requirements](https://github.com/romeolibm/GUT-Requirements)
+1. The editor processes data necessry to develop LUT/GUT entities see: [GUT requirements](https://github.com/romeolibm/GUT-Requirements)
 2. This implementation is a browser JavaScript based implementation that is decoupled from the UI framework via a interface generator.
    * ReactJs, Next.js and Carbon-React are the initial platforms considered
    * The implementation has a static application base implementeing the universal viewer and editor and can discover and dynamically load viewers and specialized editors for a given entity 
